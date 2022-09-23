@@ -1,0 +1,16 @@
+{
+ "data" : [
+   {
+        "firstName": "vivek",
+        "lastName": "ghatole",
+        "email": "vivek@gmail.com",
+        "massage": "hii i am new here"
+    },
+    {
+        "firstName": "vivek2",
+        "lastName": "ghatole2",
+        "email": "vivek2@gmail.com",
+        "massage": "hii i am new here2"
+    }
+]
+}

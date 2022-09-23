@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "1vivek",
+        "lastName": "1ghatole",
+        "email": "1vivek@gmail.com",
+        "massage": "1hii i am new here"
+    },
+    {
+        "firstName": "vivek2",
+        "lastName": "ghatole2",
+        "email": "vivek2@gmail.com",
+        "massage": "hii i am new here2"
+    },
+    {
+        "firstName": "vivek3",
+        "lastName": "ghatole3",
+        "email": "vivek3@gmail.com",
+        "massage": "hii i am new here3"
+    }
+]
